@@ -1,7 +1,7 @@
 /*3. Write a program that inputs a line of text into char array s[ 100 ]. Output the line in 
 uppercase letters and in lowercase letters. */
 
-/*#include <iostream>
+#include <iostream>
 #include <cstring>
 
 using namespace std;
@@ -24,5 +24,5 @@ int main(){
     s[j]=tolower(s[j]);
     cout<<s[j];
   }
-  
-}*/
+ 
+}
